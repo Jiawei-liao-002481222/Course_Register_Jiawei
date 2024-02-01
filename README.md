@@ -1,2 +1,2 @@
-# DayCare_Jiawei
-A course project in OOP Java class that designed a database management system for a kindergarten, handling children's information and data storage.
+# Web_Reg_Jiawei
+A web application for course registration, employing HTML, CSS, and JavaScript to deliver a responsive and engaging frontend user experience.
